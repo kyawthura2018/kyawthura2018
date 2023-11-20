@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity, Flutter and Quarkus Framework.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aung-kyaw-thura-346475156](https://www.linkedin.com/in/aung-kyaw-thura-346475156)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aung-kyaw-thura-346475156](https://github.com/kyawthura2018)
 
 - 💬 Ask me about **react, node, flutter, java and web3.**
 
